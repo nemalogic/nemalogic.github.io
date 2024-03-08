@@ -2,36 +2,11 @@
 <html>
     <head>
         <head>
-            <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=EJT1ka1NgqXjmCPxB_rmGqAIyxnGoeuPZFruQEnqx9HvCsT6qiV9Y7jDlCSUL2sD" charset="UTF-8"></script>
-<script>
-function includeHTML() {
-  var z, i, elmnt, file, xhttp;
-  /* Loop through a collection of all HTML elements: */
-  z = document.getElementsByTagName("*");
-  for (i = 0; i < z.length; i++) {
-    elmnt = z[i];
-    /*search for elements with a certain atrribute:*/
-    file = elmnt.getAttribute("w3-include-html");
-    if (file) {
-      /* Make an HTTP request using the attribute value as the file name: */
-      xhttp = new XMLHttpRequest();
-      xhttp.onreadystatechange = function() {
-        if (this.readyState == 4) {
-          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
-          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
-          /* Remove the attribute, and call this function once more: */
-          elmnt.removeAttribute("w3-include-html");
-          includeHTML();
-        }
-      }
-      xhttp.open("GET", file, true);
-      xhttp.send();
-      /* Exit the function: */
-      return;
-    }
-  }
-}
-</script>
+
+
+            <script type="text/javascript" src="/js/main/main_menu.js" charset="UTF-8"></script>
+
+
 
             <link rel="stylesheet" crossorigin="anonymous" href="https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly93d3cubmVtYWxvZ2ljLmNvbS8"/>
             <style>
