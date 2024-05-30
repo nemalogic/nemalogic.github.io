@@ -1,0 +1,364 @@
+Protocol 4: PCR with HOT FIREPol® (Solis BioDyne) for amplification of rRNA and protein-coding genes (Archidona-Yuste et al., 2018) 
+• 
+
+Add 1-4 µI of extracted DNA to a 0.2 ml Eppendorf tube containing 5 µI of 5x HOT FIREpol® Blend Master Mix (with 10 mM MgCl2), 0.15 µI of each primer (1.0 µg µ1-1 ), and distilled water to a final volume of 25 µI. 
+• 
+
+Put the tube in the PCR machine with the following thermal profile : an initial denaturation at 95 ° C for 15 min, 35 cycles of 45 sat 94 ° C, 45 sat 55 ° C, and 45 sat 72 ° C, followed by a final step of 5 min at 72 ° C. For some specific A+ T rich gene region as the cox//-16S used for identification of Meloidogyne species: an initial denaturation at 95 ° C for 15 min, 40 cycles of 1 min at 95 ° C, 1 min at 54 ° c, and 2 min 30 sat 66 ° C, followed by a final step of 7 min at 68 ° C. 
+
+Prmer combination i Amplifedi 
+and code (drecton)•ii Prtmer sequence (5'-3')  regoni References  
+G18SU (f)  GCT TGC CTC AAA GAT TM GCC  18S rRNA  Bax1er et al. (1998)l 
+R18Ty1 (r) lF18Ty2 (I) lR18Tyl2 (r)  GGT CCA AGA ATT TCA CCT CTC CAG CCG CGG TAA TTC CAG C CGG TGT GTA CAA AGG GCA GG  18S rRNA  Chzhovet al.(2006)iChzhovet al.(2006)i 
+988F (f) 1912R (r)  CTC AAA GATTAA GCC ATG C TTT ACG GTC AGA ACT AGG G  18S rRNA  Hoterman et al. (2006) l 
+1096F (f)  GGT AAT TCT GGA GCT AAT AC  18S rRNA  Hoterman et al. (2006) l 
+1912R (r)  TTT ACG GTC AGA ACT AGG G  
+1813F (f) 2646R (r)  CTG CGT GAG AGG TGA AAT GCT ACC TTG TTA CGA CTT TT  18S rRNA  Hoterman et al. (2006) l 
+SSU_F_04  GCT TGT CTC AAA GAT TAA GCC  18S rRNA  Blax1eret al.(1998)  
+SSU_R_09  AGC TGG AAT TAC CGC GGC TG  
+SSU_F_22  TCC AAG GAA GGC AGC AGG C  18S rRNA  Blaxteret al.(1998)  
+SSU_R_13,  GGG CAT CAC AGA CCT GTT A  
+SSU_F_23  ATT CCG ATA ACG AGC GAG A  18S rRNA  Blax1eret al.(1998)  
+SSU_R_81  TGA TCC WKC YGC AGG TTC AC  
+desgnatediNem_18S_F  CGC GAA TAG CTC ATT ACA ACAGC  18S rRNA  Foyd et al. (2005) l 
+Nem_18S_R  GGG CGG TAT CTG ATC GCC  
+18S-CL-F3  CTT GTC TCA AAG ATT AAG CCA TGC AT  18S rRNA +  carta and u (2018,  
+288-CL-R  CAG CTA CTA GAT GGT TCG ATT AGT C  ITS1-5.8SITS2 rRNA +  2019)  
+28S rRNA  
+18S (I) rDNA 1.58S (r)  TTG ATT ACG TCC CTG CCC TTT ACG AGC CGA GTG ATC CAC CG  ITS1-rRNA  Vran et al. (1992) iSzalansket al. ( 1997) i  
+TW81 (I)  GTT TCC GTA GGT GAA CCT GC  ITS1-rRNA  Curran et al. ( 1994)  
+5.8SM5 (r)  GGC GCA ATG TGC ATT CGA  Zheng et al.(2000)  
+18S (f) 26S (r)  TTG ATT ACG TCC CTG CCC TTT TTT CAC TCG CCG TTA CTA AGG  ITS1-5.8SITS2 rRNA  Vranet al. (1992) i 
+F194 (f)  CGT AAC AAG GTA GCT GTA G  ITS1-5.8S Fernset al.(1993)  
+F195 (r) TW81 (I)  TCC TCC GCT AAA TGA TAT G GTT TCC GTA GGT GAA CCT GC  ITS2 rRNA ITS1-5.8S Curran et al. (1994)  
+AB21 (r) D2A (I)  ATA TGC TTA AGT TCA GCG GGT ACA AGT ACC GTG AGG GAA  ITS2 rRNA D2-D3 ol 28S  Nunn (1992)  
+AGTTG  rRNA  
+D3B (r)  TCG GAA GGA ACC AGC TAC TA  
+D2Ty(f)l D3B (r)  GAG AGA GTT AAA NAG BAC GTG A TCG GAA GGA ACC AGC TAC TA  D2-D3 ol 288 rRNA  Chizhov et al. (2012) Nunn (1992)  
+D2A (I)  ACA AGT ACC GTG AGG GAA  D2 of 28S  Nunn (1992)  
+AGTTG  rRNA  
+D28 (r)  GAC CCG TCT TGA AAC ACG GA  
+111, forward; r, reverse.  
+
+Aphelenchoides AbF5 -ATG TGT AAG TAG AGC GTT 18S rRNA -340 bp Devran et al. 
+besseyi ATA (2017) 
+AbR5 -ATT CGC CGT TTT TAA GGC G-
+Aphelenchoides AFragF1 -GCA AGT GCT ATG CGA TCT ITS rRNA -169 bp Mccuiston et al. 
+fragariae TCT (2007) 
+AfragR1 -GCC ACA TCG GGT CAT TAT 
+TT 
+Aphelenchoides BSF -TCG ATG AAG AAC GCA GTG ITS rRNA -208 bp Cui et al. (2010) 
+ritzemabosi AATT 
+ArtR-CTC CAC ACG CCG ACC GA 
+Bursaphelenchus BC1 F -AAC TAC CGT CTT CCG CTG ITS rRNA -528 bp Silva et al. (2016) 
+cocophilus TCG 
+BC1 R -TTG AGC ACC AAC ACG CCG 
+TCA 
+Bursaphelenchus FF-GTG ATG GGT TTG CGG GCG ITS rRNA -617 bp Filipiak et al. 
+fraudulentus GCG (2010) 
+FR -CAA CCA ATG CAC ACC AAC CAA 
+Bursaphelenchus MF-TCCGGCCATATCTCTACGAC ITS rRNA -210 bp Matsunaga and 
+mucronatt1s MR -GTTTCAACCAATTCCGAACC Togashi (2004) 
+Bursaphelenchus XF-ACGATGATGCGATTGGTGAC ITS rRNA -557 bp Matsunaga and 
+xylophilus XR -TATTGGTCGCGGAACAAACC Togashi (2004) 
+Bursaphelenchus Y01 F -AGT CCG TGC CTT TGC TCT SCAR -609 bp Chen et al. (2011) 
+mucronatt1s AGC 
+Y01 R -CCG AAG TGT CTC GAG CGA 
+AAT 
+Bursaphelenchus BZ2 -TCA CGA TGA TGC GAT TGG TG ITS rRNA -580bp Jianget al. (2005) 
+xylophilus BF3 -AGA AGA TCT TGG TCG CGG AA 
+Ditylenchus destructor D2 -TGG ATC ACT CGG CGG CTC D2-D3 of -346 bp Liu et al. (2007) 
+GTAGA 28S rRNA 
+D1 -ACT GCT CTG CGT TTG GCT TCA 
+Ditylenchus dipsaci DitNF1 -TTA TGA CAA ATT CAT GGC ITS rRNA -263 bp Subbotin et al. 
+GG (2005) 
+rDNA2 -TTT CAC TCG CCG TTA CTA 
+AGG 
+Ditylenchus dipsaci U831 -AAY AAA ACM AAG CCN TYT Hsp90 -182 bp Madani et al. 
+GGA C (2015) 
+Dipsaci-hsp90R -GWG TTA WAT AAC 
+TTG GTC RGC 
+Ditylenchus dipsaci HOS -TCA AGG TAA TCT TTT TCC CCA SCAR -242 bp Esquibel et al. 
+CT (2003) 
+H06 -CAACTG CTA ATG CGT GCT CT 
+Ditylenchus dipsaci DdpS1 • TGG CTG CGT TGA AGA GAA ITS rRNA -517 bp Kerkoud et al. 
+CT (2007) 
+rDNA2 -TTT CAC TCG CCG TTA CTA 
+AGG 
+Ditylenchus dipsaci DTuniF -CTG TAG GTG AAC ITS rRNA -148 bp Jeszke et al.
+I
+CTG C (2015) 
+D TdipR -GAG ATC ACC AGT GAG CAT 
+I 
+CG 
+Ditylenchus gigas D09 -CAA AGT GTT TGA TCG ACT GGA SCAR -198 bp Esquibel 
+D10 -CAT CCC AAA ACA AAG AAA GG et al. (2003) 
+Nematode species  Primer code and sequence (5'-3')  Gene fragment  Ampifiedlsize  References  
+Dityle n chus gigas  DITuniF -CTG TAG GTG AAC CTG C DITgigR -GAC CAC CTG TCG ATT C  ITS rRNA  -270 bp  JeszKe et al. (2015)  
+Globodera rostochiensis  PITSr3 -AGC GCA GAC ATG CCG CAA ITS5 -GGA AGT AAA AGT CGT AAC  ITS rRNA  -434 bp  Buman and lMarshall (1997)  
+AAGG  
+Gtobodera rostochiensis  GGT GAC TCG ACG ATT GCT GT GCA GTT GGC TAG CGA TCT TC  ITS rRNA  -391 bp  Muhollandlet al. (1996)  
+Globodera pa/Iida  P ITSp4 -ACA ACA GCA ATC GTC GAG ITS5 -GGA AGT AAA AGT CGT AAC  ITS rRNA  -265 bp  Buman and lMarshall (1997)  
+AAGG  
+Globodera pa/Iida  GGT GAC TCG ACG ATT GCT GT GCA GTT GGC TAG CGA TCT TC  ITS rRNA  •. 238 bp  Muholandllet al. (1996)  
+Heterodera  avenae  AVEN-COIF -GGG TTT TCG GTT ATT TGG  COi  -109 bp  Toumi eta/. (2013a)  
+AVEN-COIR CGC CTA TCT AAA TCT  
+ATA CCA  
+Heterodera fflipjevi  Fill-COIF GTA GGA ATA GAT TTA GATAGT C  COi  -245 bp  Toumi eta/. (2013a)  
+Fill-COIA-TGA GCA ACA ACA TAA TAAG  
+
+Heterodera filipjevi 
+HfF1 -CAG GAC GAA ACT CAT TCA SCAR 
+ACCAA 
+HfR1 -AGG GCG AAC AGG AGA AGA 
+TTAGA 
+Peng et al. (2013) 
+Heterodera Jatipons Hlat-actF -ATG CCA TCA TTA TTC CTI actin -204 bp Toumi eta/. 
+Hlat-actR -ACA GAG AGT CAA ATI GTG (2013b) 
+Heterodera glycines JBG1 -TGG TTT AGT TAG ATT AAC COi -339 bp Ko et al. (2017) 
+TAT C 
+JB3R -TCC AAA CTW GCG TIA CTY 
+AG 
+Heterodera gtycines SCNFI-GGA CCC TGA CCA AAA AGT SCAR -477 bp Ou etal. (2008) 
+TICCGC 
+SCNRI -GGA CCC TGA CGA GTT ATG 
+GGCCCG 
+Heterodera gtycines GlyF1 -TTA CGG ACC GTA ACT CAA ITS rRNA -181 bp Subbolin et al. 
+26S -TTT CAC TCG CCG TTA CTA (2001) 
+AGG 
+Heterodera schachtii JBS1 -GGA TAA TTT ATG CTA COi -339 bp Ko et al. (2017) 
+TIA TC 
+JB3R -TCC AAA CTW GCG TTA 
+CTYAG 
+Heterodera schachti i SHF6 -GTT CTT ACG TTA CTT CCA ITS rRNA -200 bp Amiri et al. (2002) 
+AB28 -ATA TGC TTA AGT TCA GCG 
+GGT 
+Hoptotaimus cotumbus Hoc-1f -AAC CTG CTG CTG GAT CAT ITS1 rRNA -580 bp Bae et al. (2009) 
+TA 
+HC-1r-TCA GCA CACAAT GGTACC 
+TTT 
+Hopto/aimus ga/e atus Hoc-1f -AAC CTG CTG CTG GAT CAT ITS1 rRNA -120 bp Bae et al. (2009) 
+TA 
+HG-2r -TCC TCG TTC ACA CAT 
+TGACA 
+Nematode Gene Amplified 
+species Primer code and sequence (5'-3') fragment size References 
+Hoplolaimus Hoc-11-AAC CTG CTG CTG GAT ITS1 rRNA -340 bp Bae et al. (2009) 
+magnisty/us CAT TA 
+HM-3r-AGA CTG GAC GGC CAA 
+AGTT 
+Longidorus attenuatus GenF -TTG ATT ACG TCC CTG CCC ITS1 rRNA -419 bp Hubschen et al. 
+TTTGT (2004) 
+Latten3-TTC CCT TTT CCC TGA TTA 
+TAA TTT TCT ATC 
+Longidorus elongatus GenF -TTG ATT ACG TCC CTG CCC ITS1 rRNA -847 bp Hubschen et al. 
+TTTGT (2004) 
+Leong1 -TTA TCG TAC GTA TTC CCA 
+l 
+GTTCT 
+Longidorus macrosoma GenF • TTG ATT ACG TCC CTG CCC ITS1 rRNA -705 bp Hubschen et al. 
+TTTGT (2004) 
+Lmacro2 • GTT CCC GAC GAT TAT TTT 
+TGT 
+Longidorus helveticus GenF -TTG ATT ACG TCC CTG CCC ITS1 rRNA -369 bp Hubschen et al. 
+TTTGT (2004) 
+Lhe 1 -CCG CAT CTC TTT ATTTCC 
+l 
+GAC CAT CAA CC 
+Longidorus GenF -TTG ATT ACG TCC CTG CCC ITS1 rRNA -1071bp Hubschen et al. 
+profundorum TTTGT (2004) 
+Lprof2 -TTA TTA TTT TTC AGG CTC 
+TACCTTTCGC 
+Longidorus sturhani GenF • TTG ATT ACG TCC CTG CCC ITS1 rRNA -667 bp Hubschen et al. 
+TTTGT (2004) 
+Lstur • TTT TCC CCA CTA ATA CTC CCT 
+CGTT 
+Meloidogyne arenaria Far -TCG GCG ATA GAG GTA AAT SCAR -420bp Zijlstra et al. 
+GAC (2000) 
+Rar -TCG GCG ATA GAC ACT ACA 
+AACT 
+Meloidogyne chitwoodi Fe • TGG AGA GCA GCA GGA GAA SCAR -800 bp Zijlstra (2000) 
+AGA-
+Re -GGT CTG AGT GAG GAC AAG 
+AGTA Meloidogyne Me-F -AACTTTTGTGAAAGTGCCGCTG IGS rRNA -200bp Long et al. (2006) 
+enterolobii Me-A -TCAGTTCAGGCAGGATCAACC Meloidogyne exigua Ex-015-F -CAT CCG TGC TGT AGC SCAR 562 bp Randig et al. 
+TGCGAG (2002) 
+Ex-015-R -CTC CGT GGG AAG AAA 
+GACTG 
+Meloidogyne /a/lax Ff -CCA AAC TAT CGT AAT GCA SCAR -515 bp Zijlstra et al. 
+TTATT (2000) 
+Rf -GGA CAC AGT AAT TCA TGA 
+GCTAG 
+Meloidogyne hap/a Fh-TGA CGG CGG TGA GTG CGA SCAR 610 bp Zijlstra (2000) 
+Rh -TGA CGG CGG TAC CTC 
+ATAG 
+Meloidogyne incognita Fine-CTC TGC CCA ATG AGC SCAR -1200bp Zilstra et al. 
+j
+TGTCC (2000) 
+Rine-CTC TGC CCT CAC ATT AGG 
+Meloidogyne incognita M�F-GTG AGG ATT CAGCTC CCC AG 
+MI-R -ACG AGG AAC ATA CTT CTC 
+CGTCC 
+Metoidogyne incognita F -TAG GCA GTA GGTTGT CGG G 
+R-CAG ATA TCT CTG CAT TGG TGC 
+Meloidogyne incognita lne-K14-F -GGG ATG TGT AAA 
+TGCTCCTG 
+lne-K14-R -CCC GCT ACA CCC TCA 
+ACTTC 
+Metoidogyne javanica Fjav -GGT GCG CGA TTG AAC 
+TGAGC 
+Rjav -CAG GCC CTT CAG TGG AAC 
+TAT AC 
+Gene 
+fragment 
+SCAR 
+SCAR 
+SCAR 
+SCAR 
+Amplified 
+s ze References
+i 
+•. 955 bp Meng et at. 
+(2004) 
+-1350 bp Dong et al. (2001) 
+•. 399 bp Randig et at. 
+(2002) 
+-620 bp Zijlstra et al. 
+(2000) 
+Meloidogyne naasi N-ITS -CTC TTT ATG GAG AAT 
+AAT CGTR195 -CCT CCG CTT 
+ITS rRNA 
+Zijlstra et al. 
+(2004) 
+ACTGAT ATG 
+Nacobbus spp. NacF -GAT CAT TAC ACG TAC CGT ITS rRNA 141-173 bp Atkins et al. 
+GATGGTC (2005) 
+NacR -CTG CTC AAC CAC GCA TAG 
+ACG 
+Paralongidoros 
+GenF-TTG ATT ACG TCC CTG CCC ITS1 rRNA 
+Hubschen et al. 
+maximus  TTTGT  (2004)  
+Pmax1 -TGC ATT TCA CCA CTT CTC  
+ACTC  
+Paratrichodoros al/ius  BL 18 -CCC GTC GMT ACT ACC  ITS rRNA  -432 bp  Riga et at. (2007)  
+GATT  
+PAR2 -CCG TYC AAA CGC GTA  
+TAT GAT C  
+Paratrichodoros teres  BL 18 -CCC GTC GMT ACT ACC GAT T PTR4-CCT GAC AAG CTT GCA CTAG  ITS rRNA  •. 677 bp  Riga et at. (2007)  
+C  
+Pratylenchus  18S TTG ATT ACG TCC CTG CCC TTT  ITS1 rRNA  -267 bp  Machado et al.  
+brachyuros  ACM7R -GCW CCA TCC AAA CAA YGA  (2007)  
+G  
+Pratylenchus botivianus TW81 -GTTTCC GTA GGT GAA CCT GC  ITS rRNA  -295 bp  Troccoli et at. (2016)  
+P-bolivR1 -ATA GCG CAC TGG CGC  
+AGCATA  
+Pratytenchus crenatus  PCR22 (f) -AAA GCC TGA ATG CCC TGA G  ITS rRNA  -610 bp  Mekete et al. (2011)  
+PCR22 (r) -AAA TTG AAA GAG GTC  
+GGTCGT  
+Pratylenchus jaehni  Pj1 F -TGG TCA ATG AAT GTT ACG  ITS1 rRNA  -476 bp  Consoli et at.  
+5818-ACG ARC CGA GTG ATC CAC  (2012)  
+Pratylenchus neglectus  PNEG -ATG AAA GTG AAC ATG TCC  03 of 28S  -290 bp  Al-Sanna et al.  
+TC  rRNA  (2004)  
+038 -TCG GAA GGA ACC AGC TAC TA  
+Pratylenchus neglectus  PNEG-F1-CGC AAT GAA AGT GAA  03 of 28S  -144 bp  Yan et al. (2008)  
+CAATGTC  rRNA  
+0385-AGT TCA CCA TCT TTC GGG TC  
+
+i 
+species Primer code and sequence (5'-3') fragment s ze References
+i 
+Pratylenchus oleae Poeae-fw1 -GAC AGA TTA GAA TGG ITS rRNA
+l
+AAT CTGTTCG 
+Paomares-R us
+li
+et al. (2014) 
+Poeae-rv1 -ATC GCT TTT GGA TTC 
+l 
+AATAAT ATA 
+Pratylenchus parazeae PpzF -CTG CTG CTG GAT CAT TAC ITS rRNA -570 bp Wang et al. 
+ATT (2015) PpzR -TCA AAT AGA CAT GCC CCA AT 
+Pratylenchus penetrans PPEN -TAA AGA ATC CGC AAG GAT D3 of 28S -278 bp AI-Banna et al. AC rRNA (2004) 
+D3B -TCG GAA GGA ACC AGC TAC TA 
+Pratylenchus penetrans PP5 (f) -ACA TGG TCG ACA CGG TGA beta-1,4--520bp Mekete et al. 
+TA endogu-(2011)
+l
+PP5 (r) -TGT TGC GCA AAT CCT GTT canase 
+TA 
+Pratylenchus penetrans PpenA -TGA CTA TAT GAC ACA TTT ITS rRNA -660 bp Waeyenberge 
+RAACTTG et al. (2009) 
+AB28 -ATA TGC TTA AGT TCA GCG 
+GGT 
+Praty/enchus penetrans PP1 -ATG ATG GAA GTG TCC GCC T ITS rRNA -462 bp Uehara et al. 
+PP2 -CCC AAC GAC GGT CAA AAG G (1998) 
+Pratylenchus scribneri PSCR-AAA GTG AAC GTT TCC ATT D3 of 28S -286 bp AI-Banna et al. 
+TC rRNA (2004) 
+D3B -TCG GAA GGA ACC AGC TAC TA 
+Pratylenchus scribneri PsF7 -AGT GTT GCT ATA ATT CAT ITS rRNA -136 bp Huang and Yan 
+GTAAAG TTGC (2017) 
+PsR7 -TGG CCA GAT GCG ATT CGA 
+GAG GTGT 
+Pratylenchus speijeri TW81 -GTT TCC GTA GGT GAA CCT ITS rRNA -102 bp De Luca et al. 
+GC (2012) 
+speijeri-spec fic-GTG CAC TGA TGT 
+i
+TAT TAT GTA TGG 
+Pratylenchus thomei PTHO-GAA AGT GAA GGT ATC CCT D3 of 28S -288 bp AI-Banna et al. 
+CG rRNA (2004) 
+D3B -TCG GAA GGA ACC AGC TAC TA 
+Pratylenchus thomei Pthf -TTC GGA AGA CAA TAA ATC SCAR -1078 bp Carrasco-
+Pthr -TCC AAA ATG AAA TAA TAA A Ballesteros 
+et al. (2007) 
+Pratylenchus vu/nus PVUL -GAA AGT GAA CGC ATC CGC D3 of 28S -287 bp AI-Banna et al. 
+AA rRNA (2004) 
+D3B -TCG GAA GGA ACC AGC TAC TA 
+Pratylenchus zeae TW81 -GTT TCC GTA GGT GAA CCT ITS rRNA -560 bp Troccoli et al. 
+GC (2016) 
+P-zeaeR1 -TAC GCA TAC RGT TCT 
+GCT CAT 
+Radopho/us similis PF -CTA CAA ATG TGA CGC GAA ITS rRNA -500 bp Liu et al. (2011) 
+PR -CAA TCT GCA CAA TGA ACA TAC 
+Radopho/us similis RsimF -GAT TCC GTC CTT TGG TGG ITS rRNA -398 bp Ravindran et al. 
+GCA (2011) 
+RsimR -GAA CCA GGC GTG CCA 
+GAG G 
+Nematode species  Primer code and sequence (5'-3')  Gene fragment  Amplified szei References  
+Rotylenchutus reniformis  Ren240F-ACC GGC TTA ATT GCA ATGGT Ren240R -ACA ACT GCT CAA CAA  ITS rRNA  -240 bp  Sayle< et al. (2012)  
+CGCAG  
+Rotylenchulus reniformis  D2A ACA AGT ACC GTG AGG GAA AGTTG Rrenif-R1A -GAAAAG GCC TAC CCA ATGTG  D2-D3 of 28S rRNA  ~ 142 bp  Van den Berg et al. (2016)  
+
+Rotylenchus robustus 
+TW81 -GTT TCC GTA GGT GAA ITS rRNA 
+Cantalapiedra-
+CCT GCR-robustus -Navarrete et al. 
+GACGTGGACATCATACAGTC (2013) 
+Scutellonema bradys TW81 -GTT TCC GTA GGT GAA CCT ITSrRNA -250 bp Van den Berg 
+GC et al. (2013) 
+S-bradys -GTG ATG GCT AAA CCA 
+CAT TC 
+Scute/lonema TW81 -GTT TCC GTA GGT GAA CCT ITS rRNA -185 bp Van den Berg 
+brachyurus GC et al. (2013) 
+S-brachyurus-type A -GCT GAA GTG 
+ACA GCC CAA CTT 
+Tylenchutus TW81 -GTT TCC GTA GGT GAA CCT ITS rRNA -113 bp Tanha Maafi 
+semipenettans GC et al. (2012) 
+Se<nipenetrans-GGA CTC TGC TCA 
+ACCTGGTAGA 
+Xiphinema TW81 -GTT TCC GTA GGT GAA CCT ITS rRNA -864 bp Chizhov et al. 
+diversicaudatum GC (2014) 
+Xip-diver-lTS -GAA TAA ACA CCT TTC 
+AAC GCTC 
+Xiphinema index 127 -GAG TCG TAA CGT TTC TCG TCT ITS rRNA -340 bp Wang et al. 
+ATCAGG (2003) 
+A-ITS 1 -GAA TAG CCA CCT AGT GAG 
+CCGAGCA 
+Xiphinema vuittenezi V18 -GTG GAA CGAAAA ITS rRNA -591 bp Wang et al. 
+GACCTC (2003) 
+A-tTS 1 -GAA TAG CCA CCT AGT GAG 
+CCGAGCA 
+Xiphinema ita/iae ITA26-GAA ATA AGA ACC CTG AAA ITS rRNA -414 bp Wang eta/. 
+AAGATA GG (2003) 
+A-tTS 1 -GAA TAG CCA CCT AGT GAG 
+CCGAGCA 
+
