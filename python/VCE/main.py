@@ -1,29 +1,33 @@
 import cv2
 import numpy as np
 import glob
-
+import os
+def get_file_list(thisdir):
+    lst = []
+    for r, d, f in os.walk(thisdir):
+        for file in f:
+            if file.endswith(".jpg"):
+                #print(os.path.join(r, file))
+                lst.append(os.path.join(r, file))
+    return lst
 
 def read_jpg_list():
     filename =  'D:/SlidesOfKootenayNematodes/PCR_005_Oots_Dess/Nem_01/vce/filelist.txt'
+
     with open(filename) as f:
         lines = [line.rstrip('/n') for line in f]
     for l in lines:
         print (l)
     return lines
 
-def main():
-    dir = 'D:/SlidesOfKootenayNematodes/PCR_005_Oots_Dess/Nem_01/vce/'
-    name = 'DESS Crico'
-    jpg_list = read_jpg_list()
+def main(lst):
+    outDir = 'D:/SlidesOfKootenayNematodes/PCR_006_Oots_Dess/Nem_01/VCE/'
+    name = 'DESS Plectus'
 
     img_array = []
 
     size = (0, 0)
-    for filename in jpg_list:
-        #filename = 'D:/SlidesOfKootenayNematodes/PCR_005_Oots_Dess/Nem_01/vce/Image_000051356.jpg'
-        #filename = filename[1:]
-        filename = filename.rstrip('\n')
-        filename = dir + filename
+    for filename in lst:
         print ("filename--->")
         print (filename)
         img = cv2.imread(filename, cv2.IMREAD_UNCHANGED)
@@ -55,7 +59,8 @@ def main():
 
         img_array.append(img)
     #name = 'Nem_02'
-    out = cv2.VideoWriter(name + '.avi', cv2.VideoWriter_fourcc(*'DIVX'), 1, size)
+    outFile = outDir + name
+    out = cv2.VideoWriter(outFile + '.avi', cv2.VideoWriter_fourcc(*'DIVX'), 1, size)
 
     for i in range(len(img_array)):
         out.write(img_array[i])
@@ -65,4 +70,7 @@ def main():
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    main()
+    dir = 'D:/SlidesOfKootenayNematodes/PCR_006_Oots_Dess/Nem_01/Micrographs/100x'
+    lst = get_file_list(dir)
+    print (lst)
+    main(lst)
