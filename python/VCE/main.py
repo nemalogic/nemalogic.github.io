@@ -20,9 +20,9 @@ def read_jpg_list():
         print (l)
     return lines
 
-def main(lst):
-    outDir = 'D:/SlidesOfKootenayNematodes/PCR_006_Oots_Dess/Nem_01/VCE/'
-    name = 'DESS Plectus'
+def main(lst,name,outDir):
+
+
 
     img_array = []
 
@@ -70,7 +70,9 @@ def main(lst):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    dir = 'D:/SlidesOfKootenayNematodes/PCR_006_Oots_Dess/Nem_01/Micrographs/100x'
+    nem_name = 'Beetle (Heterosilpha ramosa) Nematode'
+    dir = 'D:/SlidesOfKootenayNematodes/Beetle_Nematode/Nem_02/Micrographs/100x/'
+    outDir = 'D:/SlidesOfKootenayNematodes/Beetle_Nematode/Nem_02/VCE/'
     lst = get_file_list(dir)
     print (lst)
-    main(lst)
+    main(lst,nem_name,outDir)
