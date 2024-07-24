@@ -108,9 +108,20 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/html.html to edit this
         <p> 
             <video width="100%" height="auto" controls>
                 <source src="https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/VCE/100X/Seg_01/Chambersiellidae-1.m4v" type="video/mp4">
-                Your browser does not support the video tag.
             </video>
         </p>
 
+        <a href="#" onclick="$('#video').show(); $(this).hide();">100X Seg_01</a>
+<div id="video">
+        <video width="320" height="270" controls>
+            <source src="https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/VCE/100X/Seg_01/Chambersiellidae-1.m4v" type="video/mp4">
+                Your browser does not support the video tag.
+        </video>
+</div>
+    <script>
+    $('#video').hide();
+    </script>
+        
+        
     </body>
 </html>
