@@ -60,9 +60,9 @@ def main(lst, name, outDir):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    nem_name = 'Xhygro.bulb1'
-    dir = 'D:/Nemalogic_Git_Hub/nemalogic/nemalogic.github.io/img/Glossary/Video Xiphinema hygrophilum/Xhygro.bulb1/'
-    outDir = 'D:/Nemalogic_Git_Hub/nemalogic/nemalogic.github.io/img/Glossary/Video Xiphinema hygrophilum/Xhygro.bulb1/'
+    nem_name = 'Chambersiellidae'
+    dir = 'D:/SlidesOfKootenayNematodes/A_014_Larch/Nem_01/Micrographs/040x/Seg_05/'
+    outDir = 'D:/SlidesOfKootenayNematodes/A_014_Larch/Nem_01/Videos/040x/Seg_05/'
     lst = get_file_list(dir)
     print(lst)
     main(lst, nem_name, outDir)
