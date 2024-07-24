@@ -61,8 +61,8 @@ def main(lst, name, outDir):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     nem_name = 'Chambersiellidae'
-    dir = 'D:/SlidesOfKootenayNematodes/A_014_Larch/Nem_01/Micrographs/040x/Seg_05/'
-    outDir = 'D:/SlidesOfKootenayNematodes/A_014_Larch/Nem_01/Videos/040x/Seg_05/'
+    dir = 'D:/SlidesOfKootenayNematodes/A_014_Larch/Nem_01/Micrographs/100x/Seg_10/'
+    outDir = 'D:/SlidesOfKootenayNematodes/A_014_Larch/Nem_01/Videos/100x/Seg_10/'
     lst = get_file_list(dir)
     print(lst)
     main(lst, nem_name, outDir)
