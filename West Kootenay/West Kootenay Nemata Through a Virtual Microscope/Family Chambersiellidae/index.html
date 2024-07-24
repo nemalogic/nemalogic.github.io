@@ -19,12 +19,67 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/html.html to edit this
             #list video {
                 display: none;
             }
+
+            a.svg {
+                position: relative;
+                display: inline-block;
+            }
+            a.svg:after {
+                content: "";
+                position: absolute;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left:0;
+            }
         </style>
 
     </head>
 
     <body>
         <div>Family Chambersiellidae With SVG</div>
+
+        <a href="#" class="svg">
+            <object data="https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/Images/drawing.svg" type="image/svg+xml">
+                <img src="random.jpg" />
+            </object>
+        </a>
+
+        <p>
+            Test
+        </p>
+        <p>
+            <a href="http://www.google.com/">
+                <object data="https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/Images/drawing.svg" type="image/svg+xml">
+                    <span>Your browser doesn't support SVG images</span>
+                </object>
+            </a>
+        </p>
+        <p>
+            End test
+        </p>
+
+        <a href="" style="display: block; z-index: 1;">
+            <object data="https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/Images/drawing.svg" type="image/svg+xml" style="z-index: -1; pointer-events: none;" />
+        </a>     
+
+
+        <h1>SVG Link Demo</h1>
+        <blockquote>Replicated from <a href="http://codepen.io/thomasquayle/pen/KwxwoO">Thomas Quayle's codepen</a> example</blockquote>
+
+        <a href="http://google.com" class="svg">
+            <object data="https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/Images/drawing.svg" type="image/svg+xml" class="mailicon">
+            </object>
+        </a>
+        <a href="http://google.com" class="svg">
+            <object data="http://openclipart.org/people/cjcreativedesign/PuppyLongEars.svg" type="image/svg+xml" class="mailicon">
+            </object>
+        </a>
+
+        <p>How cool is that?</p>
+
+
+
         <p>
             <img src = "https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/Images/drawing.svg" 
                  alt="40X"      
@@ -33,8 +88,12 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/html.html to edit this
         </p>
         <p>
             <img src = "https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/Images/drawing.svg" 
-                 alt="40X"       />
+                 alt="40X"      cd  />
         </p>
+
+
+
+
 
 
         <p> <a href="https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/VCE/040X/index.html">Segement 1 40x</a> </p>
