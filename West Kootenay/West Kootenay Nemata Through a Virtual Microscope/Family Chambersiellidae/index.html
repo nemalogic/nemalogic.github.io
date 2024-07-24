@@ -3,12 +3,24 @@
 Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
 Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/html.html to edit this template
 -->
+
+
+
+
+
 <html>
     <head>
         <title>Family Chambersiellidae With SVG</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+<style>
+#list video { display: none; }
+</style>
+
     </head>
+    
     <body>
         <div>Family Chambersiellidae With SVG</div>
         <img src = "https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/Images/drawing.svg" 
@@ -111,15 +123,22 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/html.html to edit this
             </video>
         </p>
 
-        <a href="#" onclick="$('#video').show(); $(this).hide();">100X Seg_01</a>
-<div id="video">
+
+        
+<ul id="list">
+    <li>
+        <a href="#" class="video_trigger">100X Seg_01</a>
         <video width="320" height="270" controls>
             <source src="https://www.nemalogic.com/West%20Kootenay/West%20Kootenay%20Nemata%20Through%20a%20Virtual%20Microscope/Family%20Chambersiellidae/VCE/100X/Seg_01/Chambersiellidae-1.m4v" type="video/mp4">
                 Your browser does not support the video tag.
         </video>
-</div>
+    </li>
+</ul>
+        
     <script>
-    $('#video').hide();
+$( '#list' ).on( 'click', '.video_trigger', function () {
+    $( this ).siblings( 'video' ).show();
+});
     </script>
         
         
