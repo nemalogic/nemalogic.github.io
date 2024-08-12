@@ -1,0 +1,10 @@
+datasets summary taxonomy taxon "Nematoda"
+
+All nematode Children
+datasets download taxonomy taxon 6231 --children
+
+
+datasets download taxonomy taxon 6231 --as-json-lines | dataformat tsv taxonomy --template tax-summary
+
+
+datasets download taxonomy taxon 6231 --as-json-lines | dataformat tsv taxonomy --template tax-summary

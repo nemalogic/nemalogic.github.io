@@ -1,0 +1,17 @@
+{
+  "apiVersion": "V2",
+  "taxons": {
+    "files": [
+      {
+        "filePath": "taxonomy_report.jsonl",
+        "fileType": "DATA_REPORT",
+        "uncompressedLengthBytes": "13664953"
+      },
+      {
+        "filePath": "taxonomy_summary.tsv",
+        "fileType": "DATA_TABLE",
+        "uncompressedLengthBytes": "4332254"
+      }
+    ]
+  }
+}
