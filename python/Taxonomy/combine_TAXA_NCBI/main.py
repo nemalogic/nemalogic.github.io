@@ -15,45 +15,59 @@ def PrintDictToFile(fn, genus):
         for line in genus:
             f.write( line + ',' + str(genus[line]) + '\n' )
 
-def Combine(ncbiDf,zootaxaDf):
+def Combine(ncbiDf,zootaxaDf,wormsDf):
     genus = SortedDict()
     for index, row in ncbiDf.iterrows():
         genusVal = str(row['Genus'])
-        genus[genusVal] = (0,0)
+        genus[genusVal] = (0,0,0)
 
     for index, row in zootaxaDf.iterrows():
         genusVal = str(row['Genus'])
-        genus[genusVal] = (0, 0)
+        genus[genusVal] = (0,0,0)
+
+    for index, row in wormsDf.iterrows():
+        genusVal = str(row['Genus'])
+        genus[genusVal] = (0,0,0)
 
     for index, row in ncbiDf.iterrows():
         genusVal = str(row['Genus'])
-        spCnt = row['Species Count']
-        genus[genusVal] = (spCnt,0)
+        (first, second, third) = genus[genusVal]
+        first = row['Species Count']
+        genus[genusVal] = (first,0,0)
 
     for index, row in zootaxaDf.iterrows():
         genusVal = str(row['Genus'])
-        spCnt = row['Species Count']
-        (first, second) = genus[genusVal]
-        genus[genusVal] = (first, spCnt)
+        second = row['Species Count']
+        (first, second, third) = genus[genusVal]
+        second = row['Species Count']
+        genus[genusVal] = (first, second, third)
+
+    for index, row in wormsDf.iterrows():
+        genusVal = str(row['Genus'])
+        (first, second,third) = genus[genusVal]
+        third = row['Species Count']
+        genus[genusVal] = (first, second,third)
 
     return genus
 
 def PrintDictToFile(fn, genus):
     with open(fn, 'w',encoding="utf-8",newline='') as f:
-        f.write('Genus' + ',' + 'NCBI Species Count' + ',' + 'TAXA Species Count' + '\n')
+        f.write('Genus' + ',' + 'NCBI Species Count' + ',' + 'TAXA Species Count' + ',' + 'WoRMS Species Count' + '\n')
         for line in genus:
-            (NCBI, TAXA) = (genus[line])
-            f.write( line + ',' + str(NCBI)  + ',' +  str(TAXA) + '\n' )
+            (NCBI, TAXA, WoRMS) = (genus[line])
+            f.write( line + ',' + str(NCBI)  + ',' +  str(TAXA) + ',' +  str(WoRMS) + '\n' )
 
 def main():
     fname1 = '../ParseNCBIData/txtFile.csv'
     fname2 = '../ParseZooTaxaPdf/txtFile.csv'
+    fname3 = '../ParseWoRMS/txtFile.csv'
 
 
     ncbiDf = get_dataframe(fname1)
     zootaxaDf = get_dataframe(fname2)
+    wormsDf = get_dataframe(fname3)
 
-    genusdf = Combine(ncbiDf,zootaxaDf)
+    genusdf = Combine(ncbiDf,zootaxaDf,wormsDf)
     print(genusdf)
     txtFile = 'txtFile.csv'
     PrintDictToFile(txtFile, genusdf)
