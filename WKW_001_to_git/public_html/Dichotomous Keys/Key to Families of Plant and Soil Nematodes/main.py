@@ -13,7 +13,7 @@ def fixup(df):
         df.loc[index, 'Description'] = Description
     return df
 def readSpreadSheet():
-    fn = 'Key to Families of Plant and Soil Nematodes.xlsx'
+    fn = '../Key to Families of Plant and Soil Nematodes.xlsx'
     df = pd.read_excel(fn, sheet_name='Sheet1')
     df = df.fillna('')
     #df = fixup(df)

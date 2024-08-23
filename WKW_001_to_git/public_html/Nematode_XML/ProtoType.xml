@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Specimen>
+  <Classification>Speices</Classification>
+  <Scientific_Name>Pratylenchus arlingtoni</Scientific_Name>
+  <Authority>Handoo, Carta &amp; Skantar, 2001</Authority>
+  <Definition />
+  <Observation>
+    <Morphometrics>
+      <Holotype>
+        <Sex />
+        <L>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </L>
+        <a>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </a>
+        <b>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </b>
+        <c>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </c>
+        <V>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </V>
+        <Stylet_length>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Stylet_length>
+        <c_prime>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </c_prime>
+        <Tail_annule_number>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Tail_annule_number>
+        <Lateral_line_number>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Lateral_line_number>
+        <Post-uterine_sac>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Post-uterine_sac>
+        <Vulval_width>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Vulval_width>
+        <Vulva-Anus_distance>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Vulva-Anus_distance>
+        <Post-uterine_sac_Vulval_width_Ratio>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Post-uterine_sac_Vulval_width_Ratio>
+        <Post-uterinesac_Vulva-anusX100_Ratio>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Post-uterinesac_Vulva-anusX100_Ratio>
+        <Pharyngeal_overlap>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Pharyngeal_overlap>
+        <Males_spermatheca_Ratio>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Males_spermatheca_Ratio>
+        <Lip_number_shape>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Lip_number_shape>
+        <Excretory_poreposition>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Excretory_poreposition>
+        <Excretory_pore-lips>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Excretory_pore-lips>
+        <Body_diameter>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Body_diameter>
+        <Pharynx_length>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Pharynx_length>
+        <Tail_length>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Tail_length>
+        <Stylet_knob_height>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Stylet_knob_height>
+        <Stylet_knob_width>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Stylet_knob_width>
+        <Stylet_knob_width_height_Ratio>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Stylet_knob_width_height_Ratio>
+        <Head_diameter>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Head_diameter>
+        <Head_height>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Head_height>
+        <Head_diameter_height_Ratio>
+          <Values>
+            <mean />
+            <SD />
+            <High />
+            <Low />
+          </Values>
+        </Head_diameter_height_Ratio>
+      </Holotype>
+    </Morphometrics>
+    <Citation>Pratylenchus arlingtoni Handoo, Carta &amp; Skantar, 2001</Citation>
+  </Observation>
+</Specimen>

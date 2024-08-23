@@ -1,0 +1,749 @@
+// FOO
+digraph GraphTitle {
+	graph [rankdir=LR]
+	label="An adaptation of
+ Manual Of Agricultural Nematology
+Pratylenchus Key"
+	000 [label="An adaptation of
+ Manual Of Agricultural Nematology
+Pratylenchus Key" fillcolor=red style=filled]
+	000 -> 001 [label=""]
+	"P. flakkensis" [label="P. flakkensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. loosi" [label="P. loosi
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. alleni" [label="P. alleni
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. coffeae" [label="P. coffeae
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. gibbicaudatus" [label="P. gibbicaudatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. estoniensis" [label="P. estoniensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. hexincisus" [label="P. hexincisus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. brachyurus" [label="P. brachyurus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. macrostylus" [label="P. macrostylus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. neglectus" [label="P. neglectus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. jordanensis" [label="P. jordanensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. scribneri" [label="P. scribneri
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. ventroprojectus" [label="P. ventroprojectus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. vulnus" [label="P. vulnus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. sudanensis" [label="P. sudanensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. mediterraneus" [label="P. mediterraneus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pseudopratensis" [label="P. pseudopratensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. penetrans" [label="P. penetrans
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. morettoi" [label="P. morettoi
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. kasari" [label="P. kasari
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pratensisobrinus" [label="P. pratensisobrinus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pratensis" [label="P. pratensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. convallariae" [label="P. convallariae
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. ventroprojectus" [label="P. ventroprojectus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pratensisobrinus" [label="P. pratensisobrinus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. fallax" [label="P. fallax
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. microstylus" [label="P. microstylus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. thornei" [label="P. thornei
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. zeae" [label="P. zeae
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pinguicaudatus" [label="P. pinguicaudatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. andinus" [label="P. andinus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. mulchandi" [label="P. mulchandi
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. sensillatus" [label="P. sensillatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. sefaensis" [label="P. sefaensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. delattrei" [label="P. delattrei
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. bolivianus" [label="P. bolivianus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. crenatus" [label="P. crenatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. teres" [label="P. teres
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. goodeyi" [label="P. goodeyi
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. morettoi" [label="P. morettoi
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. typicus" [label="P. typicus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. wescolagricus" [label="P. wescolagricus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. vulnus" [label="P. vulnus
+" fillcolor=aqua shape=hexagon style=filled]
+	"P. pseudopratensis" [label="P. pseudopratensis
+" fillcolor=aqua shape=hexagon style=filled]
+	001 -> 002 [label="The Lip region
+is composed of
+two annules (one
+stria)
+"]
+	001 -> 013 [label="The Lip region
+is composed of
+three annules (two
+striae)
+"]
+	001 -> 038 [label="The Lip region
+is composed of
+four annules (three
+striae)
+"]
+	002 -> 003 [label="Spermatheca filled with
+sperm (males generally
+common)
+"]
+	002 -> 006 [label="Spermatheca empty (males
+rare or absent)
+"]
+	003 -> "P. flakkensis" [label="Terminus crenate (V
+= 73-77; stylet
+= 17 um;
+apical lip annule
+flattened, distinctly narrower
+than the second
+annule; Spermathecaround to
+quadrangular; PUS undifferentiated)
+"]
+	003 -> 004 [label="Terminus smooth, unstriated
+"]
+	004 -> "P. loosi" [label="Terminus narrowly rounded
+to subacute (V
+= 79-85; body
+slender, a= 28-36;
+apical lip annule
+slightly rounded; spermatheca
+oval)
+"]
+	004 -> 005 [label="Terminus broadly rounded,
+truncated or indented
+"]
+	005 -> "P. alleni" [label="Spermatheca spherical; stylet
+length under 15
+um (V =
+78-83; stylet= 13.5-15
+um; PUS short
+just over body
+width), undifferentiated; tail
+bluntly rounded, terminus
+often with one
+or two indentations)
+Spermatheca oval; spear
+length over 15
+um
+"]
+	005 -> "P. coffeae" [label="Spermatheca oval; spear
+length over 15
+um (V =
+76-84; stylet= 15-18
+um; PUS very
+variable in size,
+usually with rudimentary
+ovary; terminus broadly
+rounded, truncate, or
+indented)
+"]
+	006 -> 007 [label="Terminus crenate
+"]
+	006 -> 008 [label="Terminus smooth or
+with single terminal
+indentation
+"]
+	007 -> "P. gibbicaudatus" [label="Vulva 70-77 (Stylet
+= 14-16 um;
+lip region flattened,
+second annule distinctly
+wider than first;
+pharyngeal overlap about
+40 um; tail
+with 24-39 annules,
+terminus often irregular;
+PUS with rudimentary
+ovary, 2 body
+widths long; lateral
+field with four
+lines)
+"]
+	007 -> "P. estoniensis" [label="Vulva 79-86 (Stylet
+15.5-17 um; lip
+region low dome-shaped;
+tail with 22-30
+annules, terminus regularly
+rounded; lateral field
+with six lines)
+"]
+	008 -> "P. hexincisus" [label="Lateral field with
+six lines (V
+= 75--82; stylet
+14.5-15.4 um; lip
+region flattened; pharyngeal
+overlap short (24
+umin illustration); PUS
+short, undifferentiated; terminus
+round to trunncated
+"]
+	008 -> 009 [label="Lateral field with
+four (occasionally five)
+lines, sometimes with
+oblique striation in
+the central band
+"]
+	009 -> 010 [label="Stylet length over
+19 um; V
+= 82-89
+"]
+	009 -> 011 [label="Stylet length 18
+um or less
+"]
+	010 -> "P. brachyurus" [label="Lip region low,
+angular; tail distally
+often subcylindrical (Pharyngeal
+overlap about 50
+um (31-68); PUS
+short, undifferentiated; terminus
+smooth, broadly rounded
+to truncate)
+"]
+	010 -> "P. macrostylus" [label="Lip region higher
+rounded; tail conoid
+(Pharyngeal overlap 21-48
+11 um; PUS
+1.0-1.7 body widths
+long, slightly differentiated;
+tail tapering to
+narrowly round or
+irregular terminus)
+"]
+	011 -> "P. neglectus" [label="Vulva 80-87 (Pharyngeal
+overlap 27 um
+(19-35); apical head
+annule low dome-shaped;
+stylet usually 15-17
+um; PUS short,
+undifferentiated; lateral field
+in pre vulvar
+region with oblique
+striation in the
+central band; tail
+tapering to rounded,
+often oblique terminus)
+"]
+	011 -> 012 [label="Vulva 73-80
+"]
+	012 -> "P. jordanensis" [label="Orifice of dorsal
+pharyngeal gland 3
+um or more
+from stylet base;
+c' = 2.1-3.0;
+cuticle of tail
+indented terminally (stylet
+14.5-15.0 um; pharyngeal
+overlap 39 um
+(29-53); PUS short,
+undifferentiated)
+"]
+	012 -> "P. scribneri" [label="Orifice of dorsal
+pharyngeal gland less
+than 2.5 um
+from stylet base;
+c' = 2.0-2.3;
+terminal cuticle not
+indented (Stylet 12-16
+um; pharyngeal overlap
+35 um (20-45);
+apical head annule
+flattened; PUS l.
+l-1.4 body widths
+long, undifferentiated; terminus
+usually broadly rounded).
+Very similar are
+P. agilis Thorne
+and Malek, 1968
+(cuticular striation more
+distinct) and P.acuticaudatus
+Braasch and Decker,
+1989 (cuticular striation
+more distinct, tail
+narrowly rounded)
+"]
+	013 -> 014 [label="Spermatheca filled with
+sperm (males generally
+common)
+"]
+	013 -> 027 [label="Spermathecaempty (males rare
+or absent)
+"]
+	014 -> 015 [label="Terminus smooth
+"]
+	014 -> 020 [label="Terminus annulated
+"]
+	015 -> "P. ventroprojectus" [label="Terminus oblique-truncate with
+ventral projection (V
+= 78-80; stylet
+= 14-16 um;
+spermatheca oval, rectangular;
+or elongate; PUS
+0.9-1.8 body widths
+long, usually with
+one terminal cell;
+terminus smooth or
+with 1-2 indentations).
+"]
+	015 -> 016 [label="Terminus regularly rounded
+"]
+	016 -> "P. vulnus" [label="Terminus bluntly pointed
+to narrowly rounded.
+Body long (0.46-0.91
+mm) and slender
+(a= 25-40); PUS
+long, differentiated (Head
+with three or
+four annules; stylet
+= 13--19 um;
+central zone of
+lateral field usually
+narrower than marginal
+ones; median bulb
+narrower, more oblong
+than in most
+other species; pharyngeal
+overlap 38 um
+(26-53). Very similar
+is P. ekrami
+Bajaj and Bhatti,
+1984, apparently distinguished
+only by shorter
+stylet (11-13 um
+and constantly three
+head annules)
+"]
+	016 -> 017 [label="Terminus broadly rounded
+"]
+	017 -> "P. sudanensis" [label="Vulva 70-76; spermatheca
+oval (Stylet =
+14-16 um; PUS
+1-1.5 body widths
+, undifferentiated; tail
+subcylindrical, with broadly
+rounded, smooth terminus)
+"]
+	017 -> 018 [label="Vulva 76-84; if
+<76, then spermatheca
+round
+"]
+	018 -> "P. mediterraneus" [label="Lip region high;
+tail almost truncate;
+spermatheca round to
+broadly oval (V
+= 77-80; stylet=
+13-15 um; central
+zone of the
+lateral field in
+midbody with oblique
+striae which sometimes
+give the impression
+of six lateral
+lines; PUS about
+one body width
+long)
+"]
+	018 -> 019 [label="Lip region normal
+"]
+	019 -> "P. pseudopratensis" [label="Spermatheca oval; V
+= 76-80 (Stylet
+= 15 um;
+body often narrowed
+ventrally behind vulva;
+lip region flattened
+anteriorly; terminus round
+to truncate; PUS
+short, undifferentiated)
+"]
+	019 -> "P. penetrans" [label="Spermatheca round; V
+= 77-84 (V=
+usually 78-84; stylet
+= 15-17 um;
+pharyngeal overlap 50
+um (32- 65);
+PUS1.0-1.5 body widths
+long; spermatheca round
+to squarish; terminus
+evenly rounded, terminal
+cuticle slightly thickened.
+Very similar are
+P. kralli Ryss,
+1982, which differs
+only by the
+more angular terminus,
+and P. subpenetrans
+Taylor and Jenkins,1957,
+differing by longer,
+differentiated PUS. Ryss
+(1988) considered both
+species identical with
+penetrans)
+"]
+	020 -> 021 [label="Terminus pointed; tail
+annules > 30
+"]
+	020 -> 022 [label="Terminus round; tail
+annules < 30
+"]
+	021 -> "P. morettoi" [label="Spermatheca round; posterior
+uterine sac more
+than 2.5 body
+widths long (Body
+long, 0.56-0.93 mm,
+and slender, a=
+26-40, stylet= 14-19
+um, V= 73-80,
+tail 46-62 um
+long, usually with
+mucro)
+"]
+	021 -> "P. kasari" [label="Spermatheca oblong; posterior
+uterine sac less
+than 1.8 body
+widths long (Body
+rather long, 0.56-0.77
+mm; V =
+75-81; stylet =
+16-18 um; tail
+length under 40
+um, terminus without
+mucro. Ryss (1988)
+considered kasari and
+morettoi identical)
+"]
+	022 -> 023 [label="Spermatheca oblong
+"]
+	022 -> 024 [label="The spermatheca is
+no longer than
+wide
+"]
+	023 -> "P. pratensisobrinus" [label="c = 12-15;
+stylet 15-17 um
+(V = 75-80;
+spermatheca round to
+elongate. Considered possibly
+an extreme variant
+of P. pratensis
+by Bernard (1984);
+Ryss (1988) synonymized
+it with P.
+kasari)
+"]
+	023 -> "P. pratensis" [label="c = 15-24;
+stylet 13-16 um
+(V = 75-79;
+spermatheca large, elongate,
+farther anterior to
+vulva than usual
+in this genus;
+terminus rounded to
+oblique, sometimes irregularly
+knobbed)
+"]
+	024 -> "P. convallariae" [label="Terminus truncate, tail
+annules < 20
+(V = 76-81;
+stylet 16-18 um;
+PUS 1.4-2 body
+widths , undifferentiated;
+terminus truncate to
+indented)
+"]
+	024 -> 025 [label="Terminus is not
+truncate or oblique-truncate
+"]
+	025 -> "P. ventroprojectus" [label="Terminus oblique-truncate with
+ventral projection (see
+under no. 15)
+"]
+	025 -> 026 [label="Terminus round
+"]
+	026 -> "P. pratensisobrinus" [label="Posterior uterine sac
+1.6-2.7 body widths
+long (see under
+no. 23)
+"]
+	026 -> "P. fallax" [label="Posterior uterine sac
+no longer than
+1.4 body widths
+(V = 77-81;
+stylet= 16-17 um;
+pharyngeal overlap 31
+um (20-44); PUS
+often with some
+terminal differentiation; terminus
+rounded or slightly
+irregular. Very similar
+is P. pseudofallax
+Cafe-Filho and Huang,
+1989, differing from
+P. fallax by
+shorter stylet(14-16 um),
+deeper body striation
+and undifferentiated PUS)
+"]
+	027 -> 028 [label="Terminus smooth
+"]
+	027 -> 037 [label="Terminus annulated
+"]
+	028 -> "P. microstylus" [label="Stylet length 11-12
+um (V =
+75-77; pharyngeal overlap
+28-46 um; PUS
+short, undifferentiated; terminus
+broadly rounded)
+"]
+	028 -> 029 [label="Stylet length 14-20
+um
+"]
+	029 -> "P. thornei" [label="Head high, not
+offset; tail truncate;
+body narrowed ventrally
+behind vulva; V
+= 73-80 (Stylet
+= 15-19 um;
+pharyngeal overlap 40
+um (30-55); PUS
+about 1.5 body
+widths ,undifferentiated)
+"]
+	029 -> 030 [label="Head standard, usually
+slightly offset; body
+not narrowed behind
+the vulva
+"]
+	030 -> "P. zeae" [label="Vulva 65-76 (Stylet
+= 15-18 um;
+pharyngeal overlap =
+31 um (18-40);
+head annules often
+indistinct; PUS 1-2
+body widths long,
+often with some
+ovarial tissue; intestine
+overlaps rectum)
+"]
+	030 -> 031 [label="Vulva 73-83
+"]
+	031 -> 032 [label="Tail subcylindrical, broadly
+rounded
+"]
+	031 -> 036 [label="Tail tapering, more
+narrowly rounded
+"]
+	032 -> "P. pinguicaudatus" [label="Posterior uterine sac
+shorter than body
+width (V =
+78-84; stylet= 15-20
+um; lateral field
+areolated; tail very
+plump, with broadly
+rounded terminus. Very
+similar is P.
+cruciferus Bajaj and
+Bhatti, 1984, distinguished
+by greater length
+(0.65-0.79 vs. 0.42-0.63
+mm) and shorter
+pharyngeal overlap(31-51 um
+vs. 52- 70).
+However, Brzeski and
+Szczygiet (1977) illustrated
+an overlap of
+37 um in
+P. pinguicaudatus, so
+the two species
+cannot be satisfactorily
+distinguished at present)
+"]
+	032 -> 033 [label="Posterior uterine sac
+longer than body
+width
+"]
+	033 -> "P. andinus" [label="Posterior uterine sac
+undifferentiated (V =
+78-81 (Corbett, 1984;
+in original description
+81-85), stylet= 15-18
+um; PUS1.5 body
+widths (19-34 um);
+pharyngeal overlap 28-53
+um; tail plump,
+terminusbroadly rounded; lateral
+field partly areolated)
+"]
+	033 -> 034 [label="Posterior uterine sac
+differentiated
+"]
+	034 -> "P. mulchandi" [label="Vulva 75-78, stylet
+length 16-20 um
+(PUS more than
+1.5 body widths;
+terminus truncate, oblique,
+broadly or occasionally
+narrowly rounded)
+"]
+	034 -> 035 [label="Vulva 77-81 ,
+stylet length 14-18
+um
+"]
+	035 -> "P. sensillatus" [label="Body slender (a
+= 28-42); pharynx
+short (b >
+1) (L =
+0.57--0.69 mm; stylet=
+15-17 um ;
+pharyngeal overlap 46
+um (39- 66);
+PUS 23. um
+(14-32); tail very
+plump)
+"]
+	035 -> "P. sefaensis" [label="Body stouter (a=
+17-31); pharynx longer
+(b = <7)
+(L = 0.40-0.53
+mm; stylet= 14-16
+um; tail very
+plump; PUS 15-30
+um; pharyngeal overlap
+21--41 um; lateral
+field very variable)
+"]
+	036 -> "P. delattrei" [label="Vulva 73-81 (Stylet
+= 14- 18
+um; PUS 1.2-l.4
+body widths long,
+undifferentiated; a small
+(0.39-0.55) and stout
+(a = 20-28)
+species)
+"]
+	036 -> "P. bolivianus" [label="Vulva 77-83 (V
+= 80-82; stylet
+= 17-20 um;
+pharyngeal overlap= 18-49
+um; PUS 22-
+31 um or
+1.25 body widths
+long, undifferentiated. Frederick
+and Tarjan (1989)
+and I consider
+P. australis Valenzuela
+and Raski, 1985
+identical to P.
+bolivianus)
+"]
+	037 -> "P. crenatus" [label="Vulva 80-86; posterior
+uterine sac longer
+than body width
+(Stylet = 14-18
+um; pharyngeal overlap
+short, 25 um
+(17-38); terminus coarsely
+striated, often clavate
+in younger females;
+cuticular sculpture rather
+deep and conspicuous)
+"]
+	037 -> "P. teres" [label="Vulva 70-77; posterior
+uterine sac no
+longer than body
+width (stylet= 17-18
+um; pharyngeal overlap=
+54 um (illustration);
+tail tapering, terminus
+round or oblique)
+"]
+	038 -> "P. goodeyi" [label="Tail dorsally sinuate
+just before terminus;
+V = 73-75
+(Stylet = 15-17
+um; pharyngeal overlap
+= 48 um
+(40-63); spermatheca large,rectangular)
+"]
+	038 -> 039 [label="Tail regular, not
+sinuate
+"]
+	039 -> "P. morettoi" [label="Tail annules 34-53;
+tail pointed; spermatheca
+round (see under
+no. 21)
+"]
+	039 -> 040 [label="Tail annules <
+30; tail rounded;
+spermatheca oval or
+empty
+"]
+	040 -> 041 [label="Spermatheca empty
+"]
+	040 -> 042 [label="Spermatheca oval, filled
+with sperm
+"]
+	041 -> "P. typicus" [label="Stylet length 15-17
+um (V =
+79-84; PUS long,
+differentiated; tail conoid,
+terminus generally narrowly
+rounded. Males unknown,
+and it is
+uncertain if the
+filled spermatheca is
+not rather a
+developing oocyte with
+granular contents)
+"]
+	041 -> "P. wescolagricus" [label="Stylet length 17-20
+um (V =
+78-82; pharyngeal overlap=
+21-49 um; PUS
+1 body widths
+long, undifferentiated; tail
+subcylindrical, terminus smooth,
+broadly rounded)
+"]
+	042 -> "P. vulnus" [label="Tail narrowly rounded
+to subacute; posterior
+uterine sac two
+body widths long,
+differentiated; body slender
+(a = 25-39)
+(see under no.
+16)
+"]
+	042 -> "P. pseudopratensis" [label="Tail broadly rounded
+to truncate; posterior
+uterine sac one
+body width long,
+undifferentiated; body stout
+(a= 21-25) (see
+under no. 19)
+"]
+}
