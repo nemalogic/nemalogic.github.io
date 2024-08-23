@@ -1,0 +1,303 @@
+// FOO
+digraph GraphTitle {
+	graph [rankdir=LR]
+	label="Cobb
+KEY TO THE GENERA
+OF
+FREE-LIVING_NEMAS"
+	000 [label="Cobb
+KEY TO THE GENERA
+OF
+FREE-LIVING_NEMAS" fillcolor=red style=filled]
+	000 -> 001 [label=""]
+	001 -> 002 [label="PHARYNX ABSENT, or
+so obscure as
+easily to escape
+notice (for alternative
+see page 8)
+"]
+	002 -> 003 [label="Oesophagus with median
+or posterior bulb
+or swelling, or
+both (for alternative
+see next page)
+"]
+	003 -> 004 [label="Amphid not known
+or obscure
+"]
+	004 -> 005 [label="Female known; wings
+0
+"]
+	005 -> "lotonchium Cobb 1920 (=Hemicycliophora de Man 1921)" [label="Ovary 1, anterior;
+ceph. set. 0;
+oesoph. with med.
+bulb; spinneret 0;
+bursa pres.; in
+soil
+"]
+	005 -> 008 [label="Ovaries 2, reflexed
+"]
+	008 -> "(Neoaplectana Steiner 1929}" [label="Spinneret none; amphid
+a pore at
+lips; cepn. set.
+2, minute; in
+beetle larvae ....
+"]
+	008 -> 010 [label="Spinneret present; oesoph.
+without median bulb;
+bursa none; marine
+"]
+	010 -> "Molgolaimua Ditlev. 1921" [label="Cephalic setae 0;
+cuticle not annulated;
+spicula long, 18%,
+flexible ............... .
+"]
+	010 -> "(Stilbonema Cobb 1920)" [label="Cephalic setae numerous,
+in circlets of
+4; cuticle annulated,
+exc. on head
+...........
+"]
+	004 -> 013 [label="Female not known
+"]
+	013 -> "Mitrephorus Linst. 1877" [label="Hemispherical cephalic cap
+suddenly wider than
+neck, edge set
+with dots .........
+.
+"]
+	013 -> 015 [label="Hemispherical cephalic cap
+absent
+"]
+	015 -> "Litonema Cobb 1920" [label="Spinneret absent; cephalic
+setae 0; wings
+present; in soil;
+J ............................ .
+"]
+	015 -> 019 [label="Spinneret present (Nuadella
+?); cepb. set.
+present; wings 0,
+striae uninterrupted; marine
+"]
+	019 -> 018 [label="Cuticle not annulated,
+striae none; cephalic
+setae small
+"]
+	018 -> "Nuadella Allgen 1927" [label="Neck 8%; cardiac
+swelling slight, clavate
+.......................................... .
+"]
+	018 -> "(Catanema Cobb 1920)" [label="Neck under4%; card.
+bulb broad; cepb.
+set. in 3
+circlets of 4;
+ampb. small, near
+lips ..
+"]
+	019 -> 021 [label="Cuticle annulated, exc.
+on head; amphid
+near lips
+"]
+	021 -> "(Leptonemella Cobb 1920)" [label="Setae on head,
+labial 6, ceph.
+10; contour of
+nema ± serrate;
+pores lateral. ....
+..
+"]
+	021 -> "(Laxonema Cobb 1920)" [label="Setae on head
+in circlets of
+4; contour of
+nema crenate; pores
+0; nema 10
+mm ........
+"]
+	003 -> 042 [label="Amphid known
+"]
+	042 -> 025 [label="External amphid not
+spiral, circular nor
+elliptical
+"]
+	025 -> "Mitrephorw Linst. 1877" [label="Head a hemispherical
+cap, suddenly wider
+than neck, edge
+set with dots
+........... .
+"]
+	025 -> 033 [label="Head not suddenly
+wider nor cap-like
+"]
+	033 -> 028 [label="Habitat soil about
+roots
+"]
+	028 -> "Anthonema Cobb 1906" [label="Spinneret present; lips
+6, long, revolute,
+flower-like; ii.mph. semicircular;
+wings 2;' 9'
+"]
+	028 -> 030 [label="Spinneret absent; lips
+not long nor
+revolute; cephalic setae
+0
+"]
+	030 -> "lotalaimw Cobb 1920" [label="Wings pres.:oesoph. ±cephaloboid;striae
+±coarse;amph. transverse,i head-width;'
+9
+"]
+	030 -> 032 [label="Wings absent, striae
+not interrupted
+"]
+	032 -> "Bolbinium Cobb 1920" [label="Ceph. papill.6, conspic.
+;amph.crescentic,head-width back;tail 3%,
+rounded; d' only
+"]
+	032 -> "Alaimus de Man 1880" [label="Ceph. papill. tiny;
+amph. inconspic.,2 head-widths
+back;tail 6-12%, slender,conoid
+"]
+	033 -> 037 [label="Habitat marine; cephalic
+setae and spinneret
+present
+"]
+	037 -> 036 [label="Ambulatory & body
+setae absent; nema
+not crooked
+"]
+	036 -> "Ceramonema Cobb 1920 (cf. Pselionema Cobb 1933)" [label="Wings pres.; amph.
+shepherd's crook; annules
+under 300, of
+tile-like elements;' 9'
+"]
+	036 -> "Leptonemella Cobb 1920" [label="Wings 0; amph.
+a tranverse slit,
+at lips; pores
+lateral; nema ±2
+mm.; d' only
+.. .
+"]
+	037 -> 039 [label="Ambulatory & body
+setae pres.; amph.
+crook-shape to spiral;
+nema ±S-shaped; •
+9'
+"]
+	039 -> "Notochaetoaoma Irwin-Smith 1918" [label="Oesoph. region hardly
+swollen; card. bulb
+faint; cerv. striae
+alike .... .
+"]
+	039 -> 041 [label="Oesoph. region swollen,
+ovoid; oesophageal bulbs
+1 or 2;
+band of cervical
+striae accentuated, exc.
+Tristicochaeta falcatum
+"]
+	041 -> "Triaticochaeta Panceri 1878 (-Draconema Cobb 1913)" [label="Ventral ambulatory adhesion
+tubes or setae
+in 3 or
+4 rows ................
+"]
+	041 -> "Drepanonema Cobb 1033 (=Chaetoaoma Clap. 1863)" [label="Ventral ambulatory adhesion
+tubes or setae
+in 2 rows
+. ......... .
+......... . ..
+.. .
+"]
+	042 -> 060 [label="External amphid spiral,
+circular or elliptical
+"]
+	060 -> 045 [label="Female not known;
+J only, exc.
+Bolbinium
+"]
+	045 -> "Eudesmoscolex Steiner 1916" [label="Annules ~90, prominent;
+subdorsal setae 9
+prs.; amph. saccate;
+nema 10%+ wide
+"]
+	045 -> 049 [label="Annules 0 or
+not prominent; subdorsal
+setae 0; amphid
+not saccate; nema
+under 5% wide
+"]
+	049 -> 048 [label="Spinneret absent; cephalir,
+setae 0; in
+soil
+"]
+	048 -> "Bolbinium Cobb 1920" [label="Cephalic papillae 6,
+conspicuous, each on
+circular base ............................
+.
+"]
+	048 -> "Litonema Cobb 1920" [label="Cephalic papillae O
+or inconspicuous; wings
+double; oesophagus ±cephaloboid
+..... .
+"]
+	049 -> 051 [label="Spinneret present
+"]
+	051 -> "Antomicron Cobb 1920" [label="Wings single, projecting;
+az;nphid almost neck
+width, barely longer
+than broad ......
+"]
+	051 -> 053 [label="Wings 0, striae
+not interrupted laterally
+"]
+	053 -> "(Cricolaimus Southern 1914)" [label="Pharynx with basal
+cuticularized ring; amphid
+monospire ..................
+"]
+	053 -> 055 [label="Pharynx without basal
+cuticularized ring; cephalic
+setae in circlets
+of 4
+"]
+	055 -> "(Alaimonema Cobb 1920)" [label="Amphid spiral, of
+2 winds ....................................................
+"]
+	055 -> 057 [label="Amphid circular or
+elliptical
+"]
+	057 -> "Cinctonema Cobb 1920" [label="Head set off
+by constriction, spherical;
+cephalic setae 4;
+amphid on neck
+...... .
+"]
+	057 -> 059 [label="Head set off
+by lack of
+annules, if at
+all; oeph. set.
+many; amph. small,
+at lips; neck
+2%
+"]
+	059 -> "(Catanema Cobb 1920)" [label="Cuticle without annulee;
+head not set
+off; pharnyx definite;
+nema 3-4 mm
+.....
+"]
+	059 -> "Laxonema Cobb 1920" [label="Cuticle with annules
+exc. on head;
+pharnyx obscure; nema
+10 mm ........
+....
+"]
+	060 -> 066 [label="Female known
+"]
+	066 -> 063 [label="Ovary 1: spinneret
+none; wings 0;
+cephalic setae 0
+or papilloid
+"]
+	063 -> "(Alaimus de Man 1880)" [label="Gonad 9 posterior,
+reflexed; amphid ±obscure;
+cardiac swelling slight;
+in soil. .....
+"]
+}

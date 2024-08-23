@@ -1,0 +1,451 @@
+// FOO
+digraph GraphTitle {
+	graph [rankdir=LR]
+	label="Key to Filenchus
+ D.J. Raski and E. Geraert
+ 1986"
+	000 [label="Key to Filenchus
+ D.J. Raski and E. Geraert
+ 1986" fillcolor=red style=filled]
+	000 -> 001 [label=""]
+	"F. zanclus" [label="F. zanclus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. acutus" [label="F. acutus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. spicatus" [label="F. spicatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. salmae" [label="F. salmae
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. nemorosus" [label="F. nemorosus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. normanjonesi" [label="F. normanjonesi
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. equisetus" [label="F. equisetus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. uesiculosus" [label="F. uesiculosus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. ruatus" [label="F. ruatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. adelinae sp." [label="F. adelinae sp.
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. polyhypnus" [label="F. polyhypnus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. terrestrzs sp." [label="F. terrestrzs sp.
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. cabi" [label="F. cabi
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. neonanus sp." [label="F. neonanus sp.
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. discrepans" [label="F. discrepans
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. helenae" [label="F. helenae
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. neoparvus" [label="F. neoparvus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. acris" [label="F. acris
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. facultativus" [label="F. facultativus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. baloghi" [label="F. baloghi
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. teres and F. retusus" [label="F. teres and
+F. retusus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. criniformicaudatus" [label="F. criniformicaudatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. compositus" [label="F. compositus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. brevicaudatus" [label="F. brevicaudatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. attenuatus" [label="F. attenuatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. discretus" [label="F. discretus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. marinus" [label="F. marinus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. cerealis" [label="F. cerealis
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. cylindricollis" [label="F. cylindricollis
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. plattensis" [label="F. plattensis
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. butteus" [label="F. butteus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. teres and F. retusus" [label="F. teres and
+F. retusus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. obtusicaudatus" [label="F. obtusicaudatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. ditissimus" [label="F. ditissimus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. hamatus" [label="F. hamatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. sandneri" [label="F. sandneri
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. orbus" [label="F. orbus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. uliginosus" [label="F. uliginosus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. infirmus" [label="F. infirmus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. misellus" [label="F. misellus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. magnus" [label="F. magnus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. microdorus" [label="F. microdorus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. zaphari" [label="F. zaphari
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. criniformicaudatus" [label="F. criniformicaudatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. tenuis" [label="F. tenuis
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. annulatus" [label="F. annulatus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. sheri" [label="F. sheri
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. andrassyi" [label="F. andrassyi
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. afghanicus" [label="F. afghanicus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. thomei" [label="F. thomei
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. cylindricaudus" [label="F. cylindricaudus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. cylzndricus" [label="F. cylzndricus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. compositus" [label="F. compositus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. mirus" [label="F. mirus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. quartus" [label="F. quartus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. vulgaris" [label="F. vulgaris
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. aquilonius" [label="F. aquilonius
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. crassacuticulus" [label="F. crassacuticulus
+" fillcolor=aqua shape=hexagon style=filled]
+	"F. hazenensis" [label="F. hazenensis
+" fillcolor=aqua shape=hexagon style=filled]
+	001 -> 002 [label="Lateral field with
+2 lines
+"]
+	001 -> 017 [label="Lateral field with
+3 lines (middle
+lin e can
+also appear as
+2 lines close
+to each other)')
+"]
+	001 -> 020 [label="Lateral field with
+4 lines'), including
+some species of
+which the structure
+of the lateral
+field is not
+known
+"]
+	002 -> 003 [label="Vagina elongated, anteriorly
+bent
+"]
+	002 -> 007 [label="Vagina not elongated,
+straight
+"]
+	003 -> "F. zanclus" [label="Tail terminus hooked
+"]
+	003 -> 004 [label="Tail terminus straight
+"]
+	004 -> 005 [label="Stylet 6-7 µm
+"]
+	004 -> 006 [label="Stylet 8-9 µm
+"]
+	005 -> "F. acutus" [label="Postvulval sac very
+small or not
+existing
+"]
+	005 -> "F. spicatus" [label="Postvulval sac ½
+body width
+"]
+	006 -> "F. salmae" [label="MB=41-44
+"]
+	006 -> "F. nemorosus" [label="MB=49-52
+"]
+	007 -> 008 [label="Stylet 12-14 µm
+"]
+	007 -> 009 [label="Stylet 10-12 µm
+"]
+	007 -> 011 [label="Stylet 8-10 µm
+"]
+	007 -> 012 [label="Stylet 5-8 µm
+"]
+	008 -> "F. normanjonesi" [label="Tail more than
+200 µm long
+(c=2.8-3.0)
+"]
+	008 -> "F. equisetus" [label="Tail about 130
+µm (c=4.4-4.6)
+"]
+	009 -> "F. uesiculosus" [label="Annuli wide (2.2-2.5
+µm ); tail
+about 100 µm
+"]
+	009 -> 010 [label="Annuli fine, tail
+120-1 60 µm
+"]
+	010 -> "F. ruatus" [label="Males present, L=510-590
+µm
+"]
+	010 -> "F. adelinae sp." [label="Males absent, L=420-480
+µm
+"]
+	011 -> "F. polyhypnus" [label="L=0.38-D.48 mm; c=4,.3-5,
+V=59-66
+"]
+	011 -> "F. terrestrzs sp." [label="L=0.54-0.61 mm; c=3.3-4,
+V=59-66
+"]
+	011 -> "F. cabi" [label="L=0.50-0.63 mm; c=4.6-5.5
+; V=66-71
+"]
+	012 -> 013 [label="Body annuli fine
+(< 1.5 µm)
+"]
+	012 -> 015 [label="Body annuli wide
+(> 1.7 µm)
+"]
+	013 -> "F. neonanus sp." [label="Postvulval uterine sac
+very short, sometimes
+not exist ing;
+tail con ical,
+last 15-20 µm
+smuous
+"]
+	013 -> 014 [label="Postvulval uterine sac
+usually as long
+as body width,
+ta il tip
+needle-like
+"]
+	014 -> "F. discrepans" [label="Males known
+"]
+	014 -> "F. helenae" [label="Males unknown
+"]
+	015 -> "F. neoparvus" [label="Head unstriated; genital
+tract long, reaching
+oesophageal bulb
+"]
+	015 -> 016 [label="Head with 2-3
+annuli; genital tract
+shorter
+"]
+	016 -> "F. acris" [label="Stylet 5-6 µm
+"]
+	016 -> "F. facultativus" [label="Stylet 6-8 µm
+"]
+	017 -> "F. baloghi" [label="Annulation coarse (1.8-2.4
+µm wide).
+"]
+	017 -> 018 [label="Annulation finer
+"]
+	018 -> "F. teres and F. retusus" [label="Tail end finely
+rounded
+"]
+	018 -> 019 [label="Tail end filiform
+"]
+	019 -> "F. criniformicaudatus" [label="L=0.34-0 .47 mm
+"]
+	019 -> "F. compositus" [label="L=0.73 -0.75 mm
+"]
+	020 -> 021 [label="Head with disc
+"]
+	020 -> 023 [label="Head contour rounded
+or truncate, without
+projecting disc
+"]
+	021 -> "F. brevicaudatus" [label="Tail short-(35 -47
+µm ), rounded
+at tip
+"]
+	021 -> 022 [label="Tail longer
+"]
+	022 -> "F. attenuatus" [label="L=0.33-0.40 mm, stylct
+6.0-6.5 µm
+"]
+	022 -> "F. discretus" [label="L=0.44-0.61 mm, stylet
+7.0-7.5 µm
+"]
+	023 -> 024 [label="Tail tip finely
+or broadly rounded
+"]
+	023 -> 032 [label="Tail tip pointed
+to filiform, straight
+or slightly curved
+"]
+	023 -> "F. marinus" [label="Tail tip hooked
+"]
+	024 -> 025 [label="Stylet 9-12 µm
+"]
+	024 -> 028 [label="Stylet 5-9 µm
+"]
+	025 -> "F. cerealis" [label="L=0.37-0.42 mm; c=10-11
+"]
+	025 -> 026 [label="L=0.50-0.66 mm; c=4.5
+-8.0 (3 spp.
+probably synonymous)
+"]
+	026 -> "F. cylindricollis" [label="Annuli 2.5 µm
+wide
+"]
+	026 -> 027 [label="Annuli 1.0 µm
+wide
+"]
+	027 -> "F. plattensis" [label="c=7.0; males lacking
+"]
+	027 -> "F. butteus" [label="c=4.5; males present
+"]
+	028 -> "F. teres and F. retusus" [label="Apparently three lines
+in lateral field
+"]
+	028 -> 029 [label="Four lines in
+lateral field
+"]
+	029 -> "F. obtusicaudatus" [label="c=10-1 1; tail
+short, thick, broadly
+rounded
+"]
+	029 -> 030 [label="c=4.3-9.2
+"]
+	030 -> "F. ditissimus" [label="c=4.3-6.2
+"]
+	030 -> 031 [label="c=7.5-9 .2
+"]
+	031 -> "F. hamatus" [label="L=0.66 mm; 6=7.3;
+males lacking; V-a/tail=2.5
+"]
+	031 -> "F. sandneri" [label="L=0.37-0.47 mm; b=4.0-4.8;
+males present; V-a/
+tail=1.2
+"]
+	032 -> 033 [label="Stylet thick, with
+large knobs ;
+head wide (8-10
+µm)
+"]
+	032 -> 034 [label="Stylet fine with
+small knobs (sometimes
+not discernable),head smaller
+(5 -8 µm)
+"]
+	033 -> "F. orbus" [label="Stylet 12-12.5 µm
+lon g; V'=78%
+"]
+	033 -> "F. uliginosus" [label="Stylet 13-15 µm
+long ; V'=72%
+"]
+	034 -> "F. infirmus" [label="Stylet 3.5-4 µm
+long
+"]
+	034 -> 035 [label="Stylet 5-7 µm
+long
+"]
+	034 -> 037 [label="Stylet 7-8 µm
+long
+"]
+	034 -> 040 [label="Stylet 8-9 µm
+long
+"]
+	034 -> 041 [label="Stylet 9-13.5 µm
+long
+"]
+	034 -> 046 [label="Stylet 14-17 µm
+long
+"]
+	035 -> "F. misellus" [label="Vulva-anus distance about
+equal to tail
+length
+"]
+	035 -> 036 [label="Tail 1. 5-2
+times vu lva-anus
+distance
+"]
+	036 -> "F. magnus" [label="L=0.31-0.40 mm
+"]
+	036 -> "F. microdorus" [label="L=0.40-0.5 mm
+"]
+	037 -> "F. zaphari" [label="c=6.2-6.6
+"]
+	037 -> 038 [label="c=3.3-57
+"]
+	038 -> "F. criniformicaudatus" [label="Lateral field apparently
+with 3
+"]
+	038 -> 039 [label="Lateral field with
+4 lines
+"]
+	039 -> "F. tenuis" [label="L=0.33-0.37 mm
+"]
+	039 -> "F. annulatus" [label="L=0.38-0.41 mm
+"]
+	039 -> "F. sheri" [label="L=0.46-0.55 mm
+"]
+	040 -> "F. andrassyi" [label="L=0.8-0.93 mm
+"]
+	040 -> "F. afghanicus" [label="L=0.46-0.6 mm
+"]
+	041 -> "F. thomei" [label="Tail longer than
+170 µm
+"]
+	041 -> 042 [label="Tail shorter than
+170 µm
+"]
+	042 -> "F. cylindricaudus" [label="Tail tapers only
+slightly: at 2
+anal body diameters
+posterior to the
+anus the tail
+thickness is 80%
+of that at
+the anus
+"]
+	042 -> 043 [label="Tail tapers more:
+at the same
+level the tail
+thickness is about
+50%
+"]
+	043 -> "F. cylzndricus" [label="Stylet 12-13 µm
+"]
+	043 -> 044 [label="Stylet 9-12 µm
+"]
+	044 -> "F. compositus" [label="Lateral field apparently
+with 3 lines,
+tail tip irregularly
+hooked
+"]
+	044 -> 045 [label="Lateral field with
+the usual 4
+incisures, tail more
+or less straight
+"]
+	045 -> "F. mirus" [label="L=0.36-0.42 mm, stylet
+well developed
+"]
+	045 -> "F. quartus" [label="L=0.39-0.58 mm, stylet
+well developed
+"]
+	045 -> "F. vulgaris" [label="L=0.52-0.81 mm, stylet
+delicate
+"]
+	046 -> "F. aquilonius" [label="L=0.70-0.95 mm, sty
+let well developed
+"]
+	046 -> "F. crassacuticulus" [label="Tail sho rt
+(less than 150
+µm), cuticle swollen
+"]
+	046 -> "F. hazenensis" [label="Tail longer (200
+µm), cuticle can
+be swollen
+"]
+}

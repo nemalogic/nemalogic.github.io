@@ -1,0 +1,6 @@
+<tsResponse xmlns="http://domain.com/namespace/tsresponse">
+	<credentials token="ABCSecure">
+		<site id="A"/>
+		<user id="User1"/>
+	</credentials>
+</tsResponse> 
