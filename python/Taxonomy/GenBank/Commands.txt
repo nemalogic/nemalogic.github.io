@@ -1,0 +1,9 @@
+esearch -db nucleotide -query "nematoda[Organism]" | efetch -format fasta > nematodes.fasta
+esearch -db nucleotide -query "Caenorhabditis[Organism] AND mRNA[filter]" | efetch -format fasta > caenorhabditis_mrna.fasta
+
+https://www.ncbi.nlm.nih.gov/books/NBK179288/#:~:text=It%20allows%20record%20detection%2C%20path,formatting%20to%20be%20controlled%20independently.
+https://ftp.ncbi.nlm.nih.gov/genbank/
+
+Pratylenchus
+nematoda[Organism] and genus Pratylenchus
+"Nematoda"[Organism] AND (genus[All Fields] AND "Pratylenchus"[Organism])
